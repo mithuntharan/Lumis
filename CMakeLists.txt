@@ -26,6 +26,7 @@ target_include_directories(
         Lumis/src/math/headersrc/
         Lumis/src/display/headersrc/
         Lumis/src/render/headersrc/
+        Lumis/dependencies/SDL/include/SDL3
 )
 
 target_link_libraries(
