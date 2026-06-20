@@ -23,5 +23,4 @@ int main(){
         window.update(pixels.getData());
         window.pollEvents();
     }
-
 }

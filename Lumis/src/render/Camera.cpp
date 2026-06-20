@@ -1,7 +1,3 @@
-//
-// Created by mithun on 6/11/26.
-//
-
 #include "headersrc/Camera.h"
 #include <complex>
 

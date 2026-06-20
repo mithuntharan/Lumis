@@ -1,7 +1,3 @@
-//
-// Created by mithun on 6/7/26.
-//
-
 #include "headersrc/PixelBuffer.h"
 
 #include <algorithm>
