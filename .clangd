@@ -1,0 +1,9 @@
+CompileFlags:
+  Add:
+    - -std=c++17
+    - -IC:/Users/Lenovo/Desktop/Lumis/src/math/headersrc
+    - -IC:/Users/Lenovo/Desktop/Lumis/src/display/headersrc
+    - -IC:/Users/Lenovo/Desktop/Lumis/src/render/headersrc
+    - -IC:/Users/Lenovo/Desktop/Lumis/src/scene/headersrc
+    - -IC:/Users/Lenovo/Desktop/Lumis/dependencies/SDL/include
+    - -IC:/Users/Lenovo/Desktop/Lumis/dependencies/SDL/include/SDL3
